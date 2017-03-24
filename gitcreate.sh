@@ -49,7 +49,8 @@ cd $ENG4SJ_TLDir
 mkdir $REPONAME
 cd $REPONAME
 git init
-# TODO: curl the template readme into local readme.md
-# git add readme.md
+echo "# $REPONAME Project Proposal\n\n" > readme.md
+curl https://raw.githubusercontent.com/Eng4SJ/Project-Proposal-Guide/master/template-readme.md >> readme.md
+git add readme.md
 git remote add origin https://github.com/ENG4SJ/$REPONAME.git
 git push -u origin master
