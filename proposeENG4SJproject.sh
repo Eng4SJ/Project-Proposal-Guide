@@ -8,16 +8,17 @@
 # Gather constant vars
 # CURRENTDIR=${PWD##*/}
 GITHUBUSER=$(git config github.user)
-ENG4SJ_TLDir=${echo $ENG4SJ_TLDir}
+ENG4SJ_TLDir=$(echo $ENG4SJ_TLDir)
 
-if [ !"$ENG4SJ_TLDir" ]; then
-	echo " ENG4SJ_TLDir not set. Please create a parent folder for all ENG4SJ repositories and export that path to ENG4SJ_TLDir variable."
+if [ "$ENG4SJ_TLDir" == "" ]; then
+	echo " ENG4SJ_TLDir not set. Please create a parent folder for all ENG4SJ repositories and export that path to ENG4SJ_TLDir variable. Example command: export ENG4SJ_TLDir=\$(pwd)"
 	exit 1
+fi
 # Get user input
 echo "Enter name for new repo"
 read REPONAME
 
-if [ !"$REPONAME" ]; then
+if [ "$REPONAME" == "" ]; then
 	echo "Repository Name Required. Script Failed."
 	exit 1
 fi
@@ -40,7 +41,7 @@ if [ "$OK" != "y" ]; then
 fi
 
 # Curl some json to the github API oh damn we so fancy
-curl -u $USERNAME https://api.github.com/orgs/ENG4SSJ/repos -d "{\"name\": \"$REPONAME\", \"description\": \"${DESCRIPTION}\", \"has_issues\": true, \"has_downloads\": true, \"has_wiki\": false}"
+curl -u $USERNAME https://api.github.com/orgs/ENG4SJ/repos -d "{\"name\": \"$REPONAME\", \"description\": \"$DESCRIPTION\"}"
 ## TODO: Check the response in case the current project already exists
 
 # Set the freshly created repo to the origin and push
@@ -49,8 +50,9 @@ cd $ENG4SJ_TLDir
 mkdir $REPONAME
 cd $REPONAME
 git init
-echo "# $REPONAME Project Proposal\n\n" > readme.md
+echo '# $REPONAME Project Proposal\n\n' > readme.md
 curl https://raw.githubusercontent.com/Eng4SJ/Project-Proposal-Guide/master/template-readme.md >> readme.md
 git add readme.md
 git remote add origin https://github.com/ENG4SJ/$REPONAME.git
 git push -u origin master
+
