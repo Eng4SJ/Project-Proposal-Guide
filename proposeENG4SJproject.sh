@@ -50,10 +50,10 @@ cd $ENG4SJ_TLDir
 mkdir $REPONAME
 cd $REPONAME
 git init
-echo '# $REPONAME Project Proposal\n\n' > readme.md
+echo '# $REPONAME Project Proposal' > readme.md
 curl https://raw.githubusercontent.com/Eng4SJ/Project-Proposal-Guide/master/template-readme.md >> readme.md
 git add readme.md
 git commit -m "init commit"
 git remote add origin https://github.com/ENG4SJ/$REPONAME.git
 git push --set-upstream origin master
-
+subl .
