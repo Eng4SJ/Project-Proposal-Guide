@@ -1,7 +1,7 @@
 # Guide to the Engineering For Social Justice Project Proposal Collection
 
 Welcome!
-This project proposal repository is a source for immediately-feasible engineering for social justice projects. Designed for use by undergraduate engineering students beginning the common capstone Senior Design Project course, it aims to provide the technologiccally-feasible seed idea along with the instructional content necessary to learn human-centered design for community or social justice. It also provides a framework for contextualizing Engineering for Social Justice work as integral to the role of the engineer, in alignment with the commonly-cited engineering goal of making the world a better place.
+This project proposal repository is a source for engineering for social justice project proposal. Designed for use by undergraduate engineering students beginning the common capstone Senior Design Project course, it aims to provide the technologiccally-feasible seed idea highlighting a potential application along with the framing & guiding content necessary to learn human-centered design for community or social justice. It also provides a framework for recontextualizing Engineering for Social Justice work as integral to the role of the engineer, in better alignment with the commonly-cited engineering goal of making the world a better place.
 
 # How to Use
 ## For Engineers & Engineering Students
