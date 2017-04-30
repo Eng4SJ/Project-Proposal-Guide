@@ -6,7 +6,7 @@ This project proposal repository is a source for immediately-feasible engineerin
 # How to Use
 ## For Engineers & Engineering Students
 
-1. **Read the [Student Usage Guide]("Student Usage Guide.md"),** which clarifies the requirements and considerations relevant for all engineering for social justice projects.
+1. **Read the [Student Usage Guide](StudentUsageGuide.md),** which clarifies the requirements and considerations relevant for all engineering for social justice projects.
 1. **Find a project proposal** you find interesting and feasible! Projects are listed [here](https://github.com/Eng4SJ).
 1. **Acquire permission** from your professor to tackle the project, negotiating any modifications to course requirements as explained in the Student Usage Guide.
 1. **Research** the surrounding topics further. These projects commonly occupy a nuanced position, and much harm or waste has been caused in the past by engineers deprioritizing the development of sufficient understanding of the topics at play before drawing any diagrams.
