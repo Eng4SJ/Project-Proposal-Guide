@@ -1,7 +1,7 @@
 # Guide to the Engineering For Social Justice Project Proposal Collection
 
 Welcome!
-This project proposal repository is a source for engineering for social justice project proposal. Designed for use by undergraduate engineering students beginning the common capstone Senior Design Project course, it aims to provide the technologiccally-feasible seed idea highlighting a potential application along with the framing & guiding content necessary to learn human-centered design for community or social justice. It also provides a framework for recontextualizing Engineering for Social Justice work as integral to the role of the engineer, in better alignment with the commonly-cited engineering goal of making the world a better place.
+This project proposal repository is a source for engineering for social justice project proposal. Designed for use by undergraduate engineering students beginning the common capstone Senior Design Project course, it aims to provide the technologically-feasible seed idea highlighting a potential application along with the framing & guiding content necessary to learn human-centered design for community or social justice. It also provides a framework for recontextualizing Engineering for Social Justice work as integral to the role of the engineer, in better alignment with the commonly-cited engineering goal of making the world a better place.
 
 # How to Use
 ## For Engineers & Engineering Students
@@ -34,7 +34,7 @@ In addition, I've provided a **lesson plan teaching how to find these potential 
 
 I'd be ecstatic to collaborate on any such lesson or course, and would absolutely love contributions of project proposals that result. I'm hoping to run such a lesson myself when possible. 
 
-Note that the project proposals currently populating this repository consititute a very small fraction of the potential projects that I have gathered. Please contact my gmail at hani.awni+ENG4SJ to get in touch about the ever-growing collection of 'not-yet-fleshed-out' seed ideas at this intersection. These can additionally serve well as backup in case participants in ideation workshops have difficulty concieving of productive social-justice-oriented applications of the engineering knowledge they have.
+Note that the project proposals currently populating this repository constitute a very small fraction of the potential projects that I have gathered. Please contact my gmail at hani.awni+ENG4SJ to get in touch about the ever-growing collection of 'not-yet-fleshed-out' seed ideas at this intersection. These can additionally serve well as backup in case participants in ideation workshops have difficulty conceiving of productive social-justice-oriented applications of the engineering knowledge they have.
 
 Lastly, ESJ educators may be interested in using the Mastodon social media instance at [m.socialjustice.engineering](https://m.socialjustice.engineering) to connect with other educators, researchers, and practicing engineers interested in engineering and social justice. For context, Mastodon is an open-source, federated social media analogous to a multitude of separate Twitters capable of cross-communication. I'm active on that instance as [@twryst](https://m.socialjustice.engineering/@twryst), and am the admin; feel free to submit a brief application as directed on the registration page itself.
 
@@ -47,7 +47,7 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
 ## Sections of a Project Proposal
 - **Background**
 
-	Brief (1paragraph) overview of the context surrounding the problem of focus.
+	Brief (1 paragraph) overview of the context surrounding the problem of focus.
 - **Objective**
 
     How would a technological component be able help here?
@@ -56,9 +56,9 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
 	What specific functionality is necessary for the project to be meaningfully complete? What about to have truly substantive impact? What would constitute stretch goals?
 - **Ethics/Social Justice Concerns**
 
-  + How might this project reinforce the unjustices at play if the engineers on it do not seek sufficiently broad perspective about their implementation?
+  + How might this project reinforce the injustices at play if the engineers on it do not seek sufficiently broad perspective about their implementation?
   + What oft-overlooked pitfalls exist in the technical space the users are likely to enter that the engineers should put forth active effort to avoid?
-  + What subleties exist around the social dimensions that an unfamiliar but well-intentioned engineer might overlook?
+  + What subtleties exist around the social dimensions that an unfamiliar but well-intentioned engineer might overlook?
 
 - **Provided Materials**
 
@@ -70,5 +70,5 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
 
 Feel free to create issues (on the relevant repository or this repository) or reach out to [haniawni](https://github.com/haniawni). Note that many projects are deliberately intended to steer students toward reading further research in Engineering and Social Justice topics.
 
-# Acknowlegements
+# Acknowledgements
 - Thank github users [jerrykrinock](https://gist.github.com/jerrykrinock) and [robwierzbowski](https://gist.github.com/robwierzbowski) for [this github-repository-creating script](https://gist.github.com/jerrykrinock/6618003 "gitcreate.sh")
