@@ -32,7 +32,7 @@ The projects proposed here require many skills beyond the core competencies trad
 
 Depending on the goals and curriculum of your course, this repository will likely be most useful as simply a source of undeniably-implementable engineering projects whose deprioritization is nigh impossible to justify, even to an ardent opponent of the development of a more socially-conscious engineering practice. 
 
-In addition, I've provided a **lesson plan teaching how to find these potential projects** and how to document them [here](). This lesson plan focuses on several key thrusts:
+In addition, I'll soon be providing a **lesson plan teaching how to find these potential projects** and how to document them [here](ESJ-Ideation-Workshops/Overview.md). This lesson plan focuses on several key thrusts:
 - *Finding Structural Causes:* Generalized Lotus Diagrams, multiple scales of analysis
 - *Unblocking Engineers' Ideation:* challenging assumptions, breaking functional and field fixedness, finding better frameworks
 - *Verifying Appropriateness:* seeking outside perspective, avoiding common failure modes
@@ -65,6 +65,7 @@ Feel free to create issues (on the relevant repository or this repository) or re
 
 # Acknowledgements
 - Thank you, Dr. Werpetinski and Sahid Lines Rosado Lausell at UIUC, for teaching the Engineering and Social Justice Scholars Program in the 2016/2017 academic year. This program has provided the background to reorient my engineering identity from one of investigating intricate shiny baubles to one of attempting to improve the lived experiences of others. This Project Proposal Repository emerges directly from that program as my culminating project, and hopefully will serve as the beginning of a career in engineering for social justice.
+- Thank you, Mike Woodley and Dr. Carney, for collaborating with me on this project.
 - Thank you, Jeremy Kemball, for the endless banter about the technological feasibility of countless applications that have seeded and will continue to help populate this repo.
 - Thank you, Lily Dodge, Chas Leichner, and Lee Holtzman, for the conscious and unconscious influence you've had in steering me toward this path. 
 
