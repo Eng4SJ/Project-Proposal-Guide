@@ -44,7 +44,7 @@ Note that the project proposals currently populating this repository constitute 
 
 Lastly, ESJ educators may be interested in using the Mastodon social media instance at [m.socialjustice.engineering](https://m.socialjustice.engineering) to connect with other educators, researchers, and practicing engineers interested in engineering and social justice. For context, Mastodon is an open-source, federated social media analogous to a multitude of separate Twitters capable of cross-communication. I'm active on that instance as [@twryst](https://m.socialjustice.engineering/@twryst), and am the admin; feel free to submit a brief application as directed on the registration page itself.
 
-# How to Contribute a Project Proposal
+# Contributing Project Proposals
 
 1. Use the shell script provided [here](gitcreate.sh) in this repository to create a new project proposal folder of a given name in your $ENG4SJ_TLDir directory. It will also create the related github project on this organization page, and setup the associated git connections. Note that this may require being added as a member of the Eng4SJ organization; contact haniawni on github to request access.
 1. Fill out the remaining fields of the Project Proposal according to the documentation below. Additional documentation about how students will be using the project proposal are available [here](proposal_considerations.md).
@@ -72,7 +72,7 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
   + Are there any recommended terms for further research by the engineers exploring this project?
 
 
-# Providing Feedback on a Project Proposal
+# Providing Feedback on Project Proposals
 
 Feel free to create issues (on the relevant repository or this repository) or reach out to [haniawni](https://github.com/haniawni). Note that many projects are deliberately intended to steer students toward reading further research in Engineering and Social Justice topics; full explanations of these complex problems cannot and should not be provided in order to avoid facilitating a 'listening for spec', Engineering Problem Solving approach in favor of encouraging the use of human centered design for social justice.
 
