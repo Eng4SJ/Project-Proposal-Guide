@@ -46,7 +46,7 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
 
 # Contributing Project Proposals
 
-1. Use the shell script provided [here](gitcreate.sh) in this repository to create a new project proposal folder of a given name in your $ENG4SJ_TLDir directory. It will also create the related github project on this organization page, and setup the associated git connections. Note that this may require being added as a member of the Eng4SJ organization; contact haniawni on github to request access.
+1. Use the shell script provided [here](https://github.com/Eng4SJ/Project-Proposal-Guide/blob/master/proposeENG4SJproject.sh) in this repository to create a new project proposal folder of a given name in your $ENG4SJ_TLDir directory. It will also create the related github project on the Eng4SJ organization page, and setup the associated git connections. Note that this may require being added as a member of the Eng4SJ organization; contact haniawni on github to request access.
 1. Fill out the remaining fields of the Project Proposal according to the documentation below. Additional documentation about how students will be using the project proposal are available [here](proposal_considerations.md).
 
 
