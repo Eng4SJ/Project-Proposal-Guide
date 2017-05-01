@@ -47,34 +47,21 @@ Lastly, ESJ educators may be interested in using the Mastodon social media insta
 # Contributing Project Proposals
 
 1. Use the shell script provided [here](https://github.com/Eng4SJ/Project-Proposal-Guide/blob/master/proposeENG4SJproject.sh) in this repository to create a new project proposal folder of a given name in your $ENG4SJ_TLDir directory. It will also create the related github project on the Eng4SJ organization page, and setup the associated git connections. Note that this may require being added as a member of the Eng4SJ organization; contact haniawni on github to request access.
-1. Fill out the remaining fields of the Project Proposal according to the documentation below. Additional documentation about how students will be using the project proposal are available [here](proposal_considerations.md).
-
-
-## Sections of a Project Proposal
-- **Background**
-
-	Brief (1 paragraph) overview of the context surrounding the problem of focus.
-- **Objective**
-
-    How would a technological component be able help here?
-- **High Level Requirements**
-
-	What specific functionality is necessary for the project to be meaningfully complete? What about to have truly substantive impact? What would constitute stretch goals?
-- **Ethics/Social Justice Concerns**
-
-  + How might this project reinforce the injustices at play if the engineers on it do not seek sufficiently broad perspective about their implementation?
-  + What oft-overlooked pitfalls exist in the technical space the users are likely to enter that the engineers should put forth active effort to avoid?
-  + What subtleties exist around the social dimensions that an unfamiliar but well-intentioned engineer might overlook?
-
-- **Provided Materials**
-
-  + Are there any materials provided which the engineering students may find useful?
-  + Are there any recommended terms for further research by the engineers exploring this project?
-
+1. Fill out the remaining fields of the Project Proposal according to the documentation [here](template-readme.md). Additional documentation about how students will be using the project proposal are available [here](proposal_considerations.md).
+1. Submit pull requests accordingly to contribute such projects to the repository! No further linking is necessary; students are already being directed to the organization's page as a whole.
 
 # Providing Feedback on Project Proposals
 
 Feel free to create issues (on the relevant repository or this repository) or reach out to [haniawni](https://github.com/haniawni). Note that many projects are deliberately intended to steer students toward reading further research in Engineering and Social Justice topics; full explanations of these complex problems cannot and should not be provided in order to avoid facilitating a 'listening for spec', Engineering Problem Solving approach in favor of encouraging the use of human centered design for social justice.
+
+# Potential Improvements
+
+- Of course, **the repository always could use more project proposals!** Feel free to contribute ideas of your own or to contact me to germinate seedlings into sufficiently clear projects for inclusion in this repo.
+- The current projects are limited to the domains of ECE (electrical and computer engineering) and CS (computer science) bachelors-level capabilities. Other fields, more specialized domains requiring more advanced skillsets, or similar such expansions in scope are exceedingly welcome.
+- The projects are currently hosted and browsed on Github. This works very well for CS & ECE projects that would likely use git for version control anyway, but there is likely potential for better interfaces, particularly around the submission of project proposals by teachers unfamiliar with git.
+- When projects have been attempted, there is potential for merging the best implementations of the year into that original project proposal repo, allowing future groups to augment or learn from the original group's work. Systems for this assessment, comparison, selection, and actual merging would need to be developed.
+- My currently central role in this project as holder-of-keys to project proposal contribution both is inefficient and establishes disquieting power dynamics. The analogous problem in journal reviewing is partially addressed by means of collaborative peer review, but such approaches exhibit undesireable dynamics that strike me as particularly relevant given the ever-evolving, multifaceted nature of social justice. I welcome suggestions for *decentralizing this power and responsibility*.
+
 
 # Acknowledgements
 - Thank you, Dr. Werpetinski and Sahid Lines Rosado Lausell at UIUC, for teaching the Engineering and Social Justice Scholars Program in the 2016/2017 academic year. This program has provided the background to reorient my engineering identity from one of investigating intricate shiny baubles to one of attempting to improve the lived experiences of others. This Project Proposal Repository emerges directly from that program as my culminating project, and hopefully will serve as the beginning of a career in engineering for social justice.
