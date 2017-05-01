@@ -57,5 +57,4 @@ git commit -m "init commit"
 git remote add origin https://github.com/ENG4SJ/$REPONAME.git
 git push --set-upstream origin master
 cd ..
-subl .
-
+echo "Ready to write project proposal for $REPONAME in $REPONAME//readme.md"
