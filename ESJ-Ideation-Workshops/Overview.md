@@ -1,7 +1,7 @@
 # CURRENTLY IN DEVELOPMENT
 
 
-## Eng4SJ Ideation Workshop/Lesson
+## Ideation Workshop/Lesson
 
 ### Objectives:
 This add-on lesson plan follows a ‘diagnostic’ event exploring current social injustices in order to engage future engineers with finding ‘targeted interventions’, in the form of feasible project proposals, that can undermine or prevent such injustice or address related needs.
