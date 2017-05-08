@@ -2,6 +2,7 @@
 title: Eng4SJ PPR
 redirect_from:
   - /intro
+  - /
 ---
 
 ### Engineering For Social Justice
