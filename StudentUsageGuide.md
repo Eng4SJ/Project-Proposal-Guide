@@ -3,7 +3,6 @@ title: Student Introductory Briefing
 redirect_from:
   - /SUG
   - /SIB
-  - /Students
 ---
 
 # Student Introductory Briefing
