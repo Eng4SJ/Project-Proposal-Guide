@@ -1,4 +1,5 @@
 ---
-redirect-to:
-  - /Readme.md#for-engineering-educators-running-senior-design-project-courses
+layout: redirected
+sitemap: false
+redirect-to: /Readme.md#for-engineering-educators-running-senior-design-project-courses
 ---
