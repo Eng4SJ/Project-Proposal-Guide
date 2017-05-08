@@ -1,4 +1,4 @@
 ---
 redirect-to:
-  - StudentUsageGuide.md#what-is-engineering-for-social-justice
+  - /StudentUsageGuide.md#what-is-engineering-for-social-justice
 ---
