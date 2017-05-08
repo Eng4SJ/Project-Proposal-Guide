@@ -1,4 +1,4 @@
 ---
 redirect-to:
-  - #for-engineering-educators-running-senior-design-project-courses
+  - Readme.md#for-engineering-educators-running-senior-design-project-courses
 ---
