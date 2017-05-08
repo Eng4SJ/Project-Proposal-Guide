@@ -1,3 +1,10 @@
+---
+title: Student Introductory Briefing
+redirect_from:
+  - /SUG
+  - /SIB
+---
+
 # Student Introductory Briefing
 
 *"Perhaps the most difficult challenge of all will be to disperse the fruits of engineering widely around the globe, to rich and poor alike."*
