@@ -5,7 +5,7 @@ redirect_from:
   - /SIB
 ---
 
-# Student Introductory Briefing
+# So You Want to Engineer for Social Justice?
 
 *"Perhaps the most difficult challenge of all will be to disperse the fruits of engineering widely around the globe, to rich and poor alike."*
 
